@@ -10,7 +10,7 @@ Students should clone their individual file and update them with links to specif
 
 * Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
 
-    = https://gist.github.com/adamgunther1/163a17437bea520a373414b6e746f2ec
+    - https://gist.github.com/adamgunther1/163a17437bea520a373414b6e746f2ec
 
 
 * Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
